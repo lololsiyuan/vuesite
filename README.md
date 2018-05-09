@@ -1,0 +1,2 @@
+# vuesite
+Common template
